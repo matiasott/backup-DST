@@ -1,7 +1,6 @@
 # backup-DST
   It is a program that generates BackUp of the Game Don't Starve Together.
- <p>
-  Language:<br />
+ <p align="right">
   <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
  </p>
 <p>
